@@ -1,0 +1,6 @@
+Ashdod,City,Green,6079,0,91468
+Beer-Sheva,City,Green,4060,0,13624
+Rishon-Leziyon,City,Green,883,0,89600
+Gevim,Moshav,Green,4111,0,13000
+Mishmar-Hashiva,Moshav,Green,1874,0,32426
+Hatzor,Moshav,Green,12,0,63912

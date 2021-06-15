@@ -1,0 +1,140 @@
+Time: 2021/06/15 12:42:34
+Settlement name: Ashdod
+Number of dead People: 15974
+Number of sick people: 33097
+
+Time: 2021/06/15 12:42:36
+Settlement name: Ashdod
+Number of dead People: 17952
+Number of sick people: 30533
+
+Time: 2021/06/15 12:42:36
+Settlement name: Hatzor
+Number of dead People: 8925
+Number of sick people: 14707
+
+Time: 2021/06/15 12:42:36
+Settlement name: Mishmar-Hashiva
+Number of dead People: 1210
+Number of sick people: 1547
+
+Time: 2021/06/15 12:42:36
+Settlement name: Rishon-Leziyon
+Number of dead People: 35408
+Number of sick people: 39659
+
+Time: 2021/06/15 12:42:37
+Settlement name: Rishon-Leziyon
+Number of dead People: 37650
+Number of sick people: 36137
+
+Time: 2021/06/15 12:42:37
+Settlement name: Hatzor
+Number of dead People: 9887
+Number of sick people: 15400
+
+Time: 2021/06/15 12:42:37
+Settlement name: Ashdod
+Number of dead People: 20011
+Number of sick people: 32925
+
+Time: 2021/06/15 12:42:38
+Settlement name: Ashdod
+Number of dead People: 21844
+Number of sick people: 30564
+
+Time: 2021/06/15 12:42:38
+Settlement name: Hatzor
+Number of dead People: 10724
+Number of sick people: 14264
+
+Time: 2021/06/15 12:42:38
+Settlement name: Gevim
+Number of dead People: 653
+Number of sick people: 552
+
+Time: 2021/06/15 12:42:39
+Settlement name: Rishon-Leziyon
+Number of dead People: 39724
+Number of sick people: 31806
+
+Time: 2021/06/15 12:42:40
+Settlement name: Rishon-Leziyon
+Number of dead People: 41299
+Number of sick people: 29007
+
+Time: 2021/06/15 12:42:40
+Settlement name: Mishmar-Hashiva
+Number of dead People: 1409
+Number of sick people: 1355
+
+Time: 2021/06/15 12:42:40
+Settlement name: Hatzor
+Number of dead People: 11534
+Number of sick people: 14717
+
+Time: 2021/06/15 12:42:40
+Settlement name: Ashdod
+Number of dead People: 23531
+Number of sick people: 32365
+
+Time: 2021/06/15 12:42:41
+Settlement name: Ashdod
+Number of dead People: 24925
+Number of sick people: 30456
+
+Time: 2021/06/15 12:42:41
+Settlement name: Hatzor
+Number of dead People: 12188
+Number of sick people: 13778
+
+Time: 2021/06/15 12:42:42
+Settlement name: Rishon-Leziyon
+Number of dead People: 43683
+Number of sick people: 24160
+
+Time: 2021/06/15 12:42:43
+Settlement name: Hatzor
+Number of dead People: 12752
+Number of sick people: 14171
+
+Time: 2021/06/15 12:42:43
+Settlement name: Ashdod
+Number of dead People: 26174
+Number of sick people: 31920
+
+Time: 2021/06/15 12:42:44
+Settlement name: Ashdod
+Number of dead People: 27209
+Number of sick people: 30386
+
+Time: 2021/06/15 12:42:45
+Settlement name: Hatzor
+Number of dead People: 13436
+Number of sick people: 13918
+
+Time: 2021/06/15 12:42:45
+Settlement name: Ashdod
+Number of dead People: 28005
+Number of sick people: 31624
+
+Time: 2021/06/15 12:42:47
+Settlement name: Ashdod
+Number of dead People: 28536
+Number of sick people: 26013
+
+Time: 2021/06/15 12:42:47
+Settlement name: Rishon-Leziyon
+Number of dead People: 45476
+Number of sick people: 17243
+
+Time: 2021/06/15 12:42:48
+Settlement name: Hatzor
+Number of dead People: 13808
+Number of sick people: 11084
+
+Time: 2021/06/15 12:42:56
+Settlement name: Gevim
+Number of dead People: 750
+Number of sick people: 78
+

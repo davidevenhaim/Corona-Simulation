@@ -1,0 +1,35 @@
+Time: 2021/06/15 15:44:40
+Settlement name: Gevim
+Number of dead People: 74
+Number of sick people: 1021
+
+Time: 2021/06/15 15:44:40
+Settlement name: Ashdod
+Number of dead People: 843
+Number of sick people: 15761
+
+Time: 2021/06/15 15:44:40
+Settlement name: Mishmar-Hashiva
+Number of dead People: 157
+Number of sick people: 2005
+
+Time: 2021/06/15 15:44:40
+Settlement name: Hatzor
+Number of dead People: 431
+Number of sick people: 7803
+
+Time: 2021/06/15 15:44:40
+Settlement name: Rishon-Leziyon
+Number of dead People: 1214
+Number of sick people: 78691
+
+Time: 2021/06/15 15:44:40
+Settlement name: Beer-Sheva
+Number of dead People: 157
+Number of sick people: 2324
+
+Time: 2021/06/15 15:44:42
+Settlement name: Gevim
+Number of dead People: 170
+Number of sick people: 786
+

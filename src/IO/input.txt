@@ -1,0 +1,11 @@
+City; Ashdod; 650;350; 90;120; 100000;
+City; Beer-Sheva; 100;210; 140;160; 22000;
+City; Rishon-Leziyon; 800;10; 180;190; 220000;
+Moshav; Gevim; 150;50; 70;70; 10000;
+Moshav; Mishmar-Hashiva; 0;10; 50;50; 25000;
+Moshav; Hatzor; 250;250; 120;100; 50000;
+#; Ashdod; Gevim;
+#; Beer-Sheva; Gevim;
+#; Hatzor; Rishon-Leziyon;
+#; Gevim; Mishmar-Hashiva;
+#; Rishon-Leziyon; Ashdod;
