@@ -24,6 +24,6 @@ The project is written in **Java** with the basics and advanced principles of th
 <img width="1314" alt="covidMap-Statistics-editMutation" src="https://user-images.githubusercontent.com/68952247/122068740-5451d080-cdfd-11eb-892e-6559de84e62b.png">
 
 
-## The running simulation after some time of Contagion with Vaccination:
+## The running simulation after some time of contagion:
 <img width="1307" alt="covidMap-Colors" src="https://user-images.githubusercontent.com/68952247/122068827-63d11980-cdfd-11eb-9ab4-789bc6a1e0d1.png">
 
